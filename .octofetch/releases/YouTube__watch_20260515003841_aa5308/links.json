@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8313",
+  "folder": "YouTube__watch_20260515003841_aa5308",
+  "base_name": "4_Xg7-MeWhd0U_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/poorgemil-hub/Cloud-Downloads-2/releases/tag/co-releases-v1-8313",
+  "files": [
+    {
+      "name": "4_Xg7-MeWhd0U_360p.mp4",
+      "url": "https://github.com/poorgemil-hub/Cloud-Downloads-2/releases/download/co-releases-v1-8313/4_Xg7-MeWhd0U_360p.mp4",
+      "api_url": "https://api.github.com/repos/poorgemil-hub/Cloud-Downloads-2/releases/assets/420589898",
+      "id": 420589898,
+      "size": 1579853,
+      "download_count": 0
+    }
+  ]
+}
