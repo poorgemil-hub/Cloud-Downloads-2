@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9961",
+  "folder": "YouTube__watch_20260517041347_deb4c7",
+  "base_name": "_B10p3gitO-I_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/poorgemil-hub/Cloud-Downloads-2/releases/tag/co-releases-v1-9961",
+  "files": [
+    {
+      "name": "_B10p3gitO-I_720p.mp4",
+      "url": "https://github.com/poorgemil-hub/Cloud-Downloads-2/releases/download/co-releases-v1-9961/_B10p3gitO-I_720p.mp4",
+      "api_url": "https://api.github.com/repos/poorgemil-hub/Cloud-Downloads-2/releases/assets/422262710",
+      "id": 422262710,
+      "size": 160742245,
+      "download_count": 0
+    }
+  ]
+}
