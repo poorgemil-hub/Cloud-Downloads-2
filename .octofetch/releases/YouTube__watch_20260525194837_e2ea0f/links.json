@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7796",
+  "folder": "YouTube__watch_20260525194837_e2ea0f",
+  "base_name": "(_16)_RGe-T-7Z6C8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/poorgemil-hub/Cloud-Downloads-2/releases/tag/co-releases-v1-7796",
+  "files": [
+    {
+      "name": "_16._RGe-T-7Z6C8_720p.mp4",
+      "url": "https://github.com/poorgemil-hub/Cloud-Downloads-2/releases/download/co-releases-v1-7796/_16._RGe-T-7Z6C8_720p.mp4",
+      "api_url": "https://api.github.com/repos/poorgemil-hub/Cloud-Downloads-2/releases/assets/429606100",
+      "id": 429606100,
+      "size": 66646174,
+      "download_count": 0
+    }
+  ]
+}
